@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[577],{6577:(e,c,f)=>{e.exports=f.p+"static/media/hero_bg.svg fill.2e2fe71fcdacff12260c.png"}}]);

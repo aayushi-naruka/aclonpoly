@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[667],{1667:(a,c,e)=>{a.exports=e.p+"static/media/background.543b44c8a13fa2cc5a7a.jpeg"}}]);

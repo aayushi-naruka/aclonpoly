@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[814],{2814:(e,n,a)=>{e.exports=a.p+"static/media/NylonPACompounds2.b53008afd03f9fa7de58.jpg"}}]);

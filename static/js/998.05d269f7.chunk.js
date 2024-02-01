@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[998],{3998:(e,n,c)=>{e.exports=c.p+"static/media/Group 6.95f0076bef89d824466c.png"}}]);

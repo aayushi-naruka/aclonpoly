@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[781],{6781:(e,n,a)=>{e.exports=a.p+"static/media/Laboratory1.86c356e616e1757205bf.png"}}]);

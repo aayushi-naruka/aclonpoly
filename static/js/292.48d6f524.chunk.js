@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[292],{7292:(e,c,n)=>{e.exports=n.p+"static/media/HIPSCompounds.35face1f29c44c301390.jpg"}}]);
