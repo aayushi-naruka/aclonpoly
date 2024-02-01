@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[728],{2728:(e,n,a)=>{e.exports=a.p+"static/media/BubbleBackground.91ab050317a5b320336f.png"}}]);

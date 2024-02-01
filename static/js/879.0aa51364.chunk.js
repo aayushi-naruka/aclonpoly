@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[879],{5879:(e,c,n)=>{e.exports=n.p+"static/media/Rectangle 1638.070d63f301c04764c9dc.png"}}]);

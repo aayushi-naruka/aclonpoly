@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[807],{1807:(e,a,n)=>{e.exports=n.p+"static/media/PolypropyleneHousehold.b8237502a4b69a9bfa8e.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[806],{7806:(e,n,s)=>{e.exports=s.p+"static/media/ABSCompounds1.133f10fd8d2b80c4b1e5.jpg"}}]);

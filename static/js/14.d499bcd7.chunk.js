@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[14],{2014:(e,n,s)=>{e.exports=s.p+"static/media/PBTCompounds1.985ce1bd990f556ae8b4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaclon_frontend=self.webpackChunkaclon_frontend||[]).push([[697],{4697:(e,n,o)=>{e.exports=o.p+"static/media/PolypropyleneAutomotive.b0d37ba35e87eb6619fd.jpg"}}]);
