@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+.contact-us-container {
+    margin-top: 80px;
+}
+
+.contact-heading {
+  text-align: center;
+  color: orangered;
+  font-weight: 900;
+}
+
+form {
+  max-width: 600px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+input,
+textarea {
+  border: 0;
+  outline: 0;
+  padding: 1em;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  margin-top: 1em;
+  font-family: 'Merriweather', sans-serif;
+  resize: none;
+}
+
+#input-submit {
+  margin-top: 220px;
+  color: white;
+  background: #e74c3c;
+  cursor: pointer;
+  width: 600px;
+  height: 40px;
+  border-radius: 20px;
+  padding-top: 5px;
+
+}
+
+#input-submit:hover {
+  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.mail{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+
+}
+
+textarea {
+  height: 126px;
+}
+
+.half {
+  float: left;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.left {
+  margin-right: 2%;
+}
+.contact-form{
+    width: 50%;
+}
+
+.contact-us-container{
+    display: flex;
+}
+
+.contact-map{
+    width: 50%;
+    background-color: #33429F;
+}
+
+.input-box-shadow{
+    -webkit-box-shadow: 0px 0px 30px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 30px -8px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 30px -8px rgba(0,0,0,0.75);
+}
+
+@media (max-width: 480px) {
+  .half {
+    width: 100%;
+    float: none;
+    margin-bottom: 0;
+  }
+}
+
+.cf:before,
+.cf:after {
+  content: ' ';
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.contact-address{
+  width: 80%;
+}
+
+.contact-map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

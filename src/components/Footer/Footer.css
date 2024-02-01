@@ -1,0 +1,35 @@
+.footer-logo{
+    width : 140px;
+    height: 80px;
+}
+.footer-logo-wrapper{
+    color: orangered!important;
+}
+
+
+.footer-logo-color{
+    margin-top: 30px!important;
+}
+.footer-container{
+    display: flex;
+    margin-top: 30px;
+}
+
+.first-block, .second-block, .third-block{
+    width: 40%;
+}
+
+.footer-product-list{
+    text-decoration: none;
+    color: white;
+}
+
+.orange-color{
+    color: white;
+    opacity: 0.8;
+}
+
+.footer{
+    margin-top: 30px;
+}
+

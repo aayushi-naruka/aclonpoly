@@ -1,0 +1,132 @@
+
+  
+
+[
+  {
+    "id": 1,
+    "name": "ABS Compounds",
+    "about": "Acrylonitrile Butadiene Styrene (ABS) is an engineering thermoplastic. It is a terpolymer made by polymerising styrene and acrylonitrile in the presence of polybutadiene. It is a preferred choice for structural applications, thanks to its physical properties such as high rigidity, resistance to impact, abrasion, strain. ABS offers excellent gloss combined with high strength and chemical resistance.",
+    "description": "Our ABS compounds are meticulously formulated to meet the rigorous demands of various industries. With superior strength, durability, and versatility, our ABS compounds are ideal for a wide range of applications. ",
+    "details": {
+      "MOQ": "500 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "ABS Compounds",
+      "Application": "Various Industries",
+      "Pack Type": "Plastic Bag",
+      "Pack Size": "As per client requirement",
+      "Features": ["High Strength", "Durable", "Versatile"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "ABSCompounds.png",
+    "product_images": ["ABSCompounds.png","ABSCompounds1.jpg","ABSCompounds2.png"]
+  },
+  {
+    "id": 2,
+    "name": "Polycarbonate for Automotive Sector",
+    "about":"Polycarbonate stands as a cornerstone material within the automotive sector, boasting a remarkable blend of properties that cater to diverse needs. Renowned for its lightweight composition, it significantly contributes to enhancing fuel efficiency while ensuring durability and safety. Its exceptional impact resistance renders it ideal for critical components such as windows, windshields, and headlamp lenses, providing robust protection against collisions. Beyond its structural prowess, polycarbonate offers unparalleled design flexibility, enabling the realization of innovative automotive designs previously unattainable with traditional materials. Its optical clarity ensures clear visibility and enhances driver safety, while its resilience to weathering and UV radiation ensures long-lasting performance. Polycarbonate's thermal stability and noise-reduction capabilities further augment its appeal, making it an indispensable asset in crafting modern, efficient, and safe automotive solutions.",
+    "description": "Our polycarbonate solutions are engineered specifically to meet the demanding requirements of the automotive sector. With exceptional impact resistance and clarity, our polycarbonate products ensure safety and aesthetics in automotive applications.",
+    "details": {
+      "MOQ": "1000 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "Polycarbonate",
+      "Application": "Automotive Sector",
+      "Pack Type": "Drums",
+      "Pack Size": "Customized",
+      "Features": ["High Impact Resistance", "Optical Clarity"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "PolycarbonateAutomotive.jpg",
+    "product_images": ["PolycarbonateAutomotive.jpg","PolycarbonateAutomotive1.jpg","PolycarbonateAutomotive2.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Polypropylene for Automotive Sector",
+    "about": "Polypropylene (PP) serves as a pivotal material in the automotive sector, renowned for its versatile properties and wide-ranging applications. As a lightweight thermoplastic polymer, PP contributes significantly to enhancing fuel efficiency and reducing overall vehicle weight, thereby aiding in improved performance and reduced emissions. Its inherent strength and impact resistance make it an ideal choice for various automotive components, including interior trim panels, door trims, dashboard components, and storage compartments, where durability and resilience are paramount. PP's ability to withstand harsh environmental conditions, including moisture and chemicals, ensures long-term reliability and longevity in automotive applications. Additionally, its ease of molding and processing facilitates intricate designs and cost-effective manufacturing processes, driving innovation and flexibility in automotive design. With its blend of strength, durability, and versatility, polypropylene continues to play a crucial role in shaping the modern automotive landscape, offering solutions that prioritize efficiency, safety, and sustainability.",
+    "description": "Our polypropylene products are tailored to meet the stringent requirements of the automotive sector. With excellent chemical resistance and mechanical properties, our polypropylene materials ensure reliability and performance in automotive applications.",
+    "details": {
+      "MOQ": "1000 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "Polypropylene",
+      "Application": "Automotive Sector",
+      "Pack Type": "Bags",
+      "Pack Size": "As per client requirement",
+      "Features": ["Chemical Resistance", "Mechanical Properties"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "PolypropyleneAutomotive.jpg",
+    "product_images": ["PolypropyleneAutomotive.jpg","PolypropyleneAutomotive1.jpg","PolypropyleneAutomotive2.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Polypropylene for Appliances & Household Sector",
+    "about": "Polypropylene (PP) holds a significant presence in the appliances and household sector, owing to its diverse range of properties and applications. As a lightweight and durable thermoplastic polymer, PP serves as a cornerstone material for various household items and appliances. Its resilience to moisture, chemicals, and high temperatures makes it well-suited for kitchenware, including food storage containers, microwave-safe dishes, and dishwasher-safe utensils. PP's ability to withstand repeated use and cleaning cycles ensures the longevity and reliability of household items, contributing to sustainable and eco-friendly practices. In addition, its ease of fabrication and cost-effectiveness make it a preferred choice for manufacturing household goods such as storage bins, laundry baskets, and furniture components. PP's versatility extends to packaging materials, where it provides robust protection for fragile items while maintaining lightweight and cost-efficient packaging solutions. With its blend of durability, affordability, and versatility, polypropylene continues to play a vital role in enhancing functionality and convenience across various aspects of the appliances and household sector.",
+    "description": "Our polypropylene materials are designed to meet the diverse needs of the appliances and household sector. With excellent heat resistance and dimensional stability, our polypropylene products ensure reliability and durability in household applications.",
+    "details": {
+      "MOQ": "500 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "Polypropylene",
+      "Application": "Appliances & Household Sector",
+      "Pack Type": "Pallets",
+      "Pack Size": "Customized",
+      "Features": ["Heat Resistance", "Dimensional Stability"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "PolypropyleneHousehold.jpg",
+    "product_images": ["PolypropyleneHousehold.png","PolypropyleneAutomotive1.jpg","PolypropyleneHousehold2.jpeg"]
+  },
+  {
+    "id": 5,
+    "name": "PBT Compounds",
+    "about": "PBT (Polybutylene terephthalate) compounds are thermoplastic engineering materials known for their excellent mechanical properties, thermal stability, and electrical insulation characteristics. PBT is a semi-crystalline polymer that exhibits high strength, stiffness, and dimensional stability, making it suitable for a wide range of applications across industries. PBT compounds are often reinforced with fillers such as glass fibers to enhance their mechanical properties further. This reinforcement improves tensile strength, flexural modulus, and heat deflection temperature, making PBT compounds suitable for demanding applications where strength and durability are critical.",
+    "description": "Our PBT compounds offer excellent electrical and mechanical properties, making them ideal for various applications. With high heat resistance and dimensional stability, our PBT compounds ensure performance and reliability in demanding environments.",
+    "details": {
+      "MOQ": "500 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "PBT Compounds",
+      "Application": "Various Industries",
+      "Pack Type": "Drums",
+      "Pack Size": "As per client requirement",
+      "Features": ["High Heat Resistance", "Dimensional Stability"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "PBTCompounds.png",
+    "product_images": ["PBTCompounds.png","PBTCompounds1.png","PBTCompounds2.jpg"]
+
+  },
+  {
+    "id": 6,
+    "name": "NYLON PA 6 & PA 66 Compounds for Electrical Sector",
+    "about": "Nylon PA 6 (Polyamide 6) and PA 66 (Polyamide 66) compounds stand as integral materials within the electrical sector, offering a robust combination of mechanical resilience, thermal stability, and electrical insulation. Renowned for their high dielectric strength and low dielectric loss, both PA 6 and PA 66 compounds serve as reliable insulating materials, safeguarding electrical systems from potential hazards. Their exceptional mechanical strength and toughness enable them to withstand mechanical stresses and vibrations, ensuring the durability and longevity of electrical components. Moreover, their thermal resistance and resistance to chemicals equip them to endure harsh operating conditions, while flame-retardant formulations enhance their fire resistance. From insulating components and cable management systems to connectors and electrical enclosures, Nylon PA 6 and PA 66 compounds find widespread applications across the electrical landscape, playing a pivotal role in maintaining the integrity and safety of electrical systems and devices.",
+    "description": "Our nylon PA 6 & PA 66 compounds are engineered to meet the stringent requirements of the electrical sector. With excellent electrical insulation properties and mechanical strength, our nylon compounds ensure reliability and performance in electrical applications.",
+    "details": {
+      "MOQ": "1000 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "Nylon PA 6 & PA 66 Compounds",
+      "Application": "Electrical Sector",
+      "Pack Type": "Bags",
+      "Pack Size": "Customized",
+      "Features": ["Electrical Insulation", "Mechanical Strength"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "NylonPACompounds.jpeg",
+    "product_images": ["NylonPACompounds.jpeg","NylonPACompounds1.png","NylonPACompounds.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "HIPS Compounds",
+    "about": "HIPS (High Impact Polystyrene) compounds are thermoplastic materials renowned for their excellent impact resistance and versatility in various applications. Composed primarily of polystyrene and a rubber modifier, HIPS compounds exhibit enhanced toughness and durability compared to standard polystyrene resins. They are commonly used in both injection molding and extrusion processes to produce a wide range of products across different industries.",
+    "description": "Our HIPS (High Impact Polystyrene) compounds offer excellent impact strength and dimensional stability, making them ideal for various applications. With versatility and reliability, our HIPS compounds ensure performance in demanding environments.",
+    "details": {
+      "MOQ": "500 Kilogram",
+      "Business Type": "Manufacturer, Supplier",
+      "Type": "HIPS Compounds",
+      "Application": "Various Industries",
+      "Pack Type": "Pallets",
+      "Pack Size": "Customized",
+      "Features": ["High Impact Strength", "Dimensional Stability"],
+      "Country of Origin": "United States"
+    },
+    "image_url": "HIPSCompounds.jpg",
+    "product_images": ["HIPSCompounds.jpg","HIPSCompounds1.png","HIPSCompounds2.jpeg"]
+  }
+]

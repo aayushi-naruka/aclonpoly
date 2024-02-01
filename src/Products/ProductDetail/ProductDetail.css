@@ -1,0 +1,62 @@
+.top-product-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.product-carousel-container{
+    width: 80%;
+    align-content: center;
+}
+
+.product-basic-container {
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+}
+
+.features-section{
+    list-style: none;
+}
+
+.detail-key {
+    display: inline-block;
+    width: 150px; /* Adjust the width as needed */
+    font-weight: bold;
+  }
+  
+  .detail-value {
+    display: inline-block;
+    vertical-align: top; /* Align values with keys */
+    margin-left: 10px; /* Add spacing between key and value */
+  }
+
+  .each-feature{
+    margin-bottom: 10px;
+  }
+
+  .product-name-heading{
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .send-mail-button-container{
+    width: 400px;
+    height: 50px;
+    background-color: orangered;
+    text-align: center;
+    padding: 1%;
+    padding-top: 10px;
+    align-items: center;
+    border-radius: 25px;
+  }
+
+  .send-mail-button{
+color: white;
+text-decoration: none;
+font-weight: 700;
+font-size: 20px;
+  }
+
+  .send-mail{
+    padding-left: 20%;
+  }
